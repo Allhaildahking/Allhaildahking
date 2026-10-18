@@ -29,10 +29,10 @@ const answers = {
   thesis: "Thesis is Destiny's future-facing creative studio. Its focus is helping brands make sense through strategy, visual identity, and digital experiences. The studio is still being built.",
   trade: "Trade-Oracle is a trading analysis project built around structured setups and risk controls. It is a research tool, not an automated trader with access to anyone's funds.",
   approach: "The approach is to start with the actual problem, make the interface intentional, and keep the code understandable. Complexity is useful only when it earns its place.",
-  availability: "Destiny is open to thoughtful conversations about projects and collaboration. GitHub is currently the clearest public contact route on this portfolio.",
+  availability: "Destiny is open to thoughtful conversations about projects and collaboration. You can reach him on X or send him a WhatsApp message using the links in the contact section.",
   background: "Destiny, known online as Allhaildahking, works across development, design, and early-stage product ideas. He is still learning and building, and prefers to show honest progress over inflated claims.",
-  collaboration: "A useful collaboration starts with a real problem, clear expectations, and room to make something better. Reach out through the GitHub profile linked on this page.",
-  contact: "The contact section links to Destiny's GitHub profile for now. A dedicated email address can be added once one is chosen for the portfolio."
+  collaboration: "A useful collaboration starts with a real problem, clear expectations, and room to make something better. Reach out through X or WhatsApp using the links in the contact section.",
+  contact: "You can contact Destiny through X at x.com/allhaildahking or WhatsApp using the contact link on this page."
 };
 
 const questionSets = {
