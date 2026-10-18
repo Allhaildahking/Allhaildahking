@@ -100,8 +100,10 @@ button { color: inherit; font: inherit; }
 .contact-section h2 em { color: var(--acid); }
 .contact-bottom { display: flex; justify-content: space-between; align-items: flex-end; gap: 28px; padding-top: 20px; border-top: 1px solid rgba(245,243,237,.24); }
 .contact-bottom p { max-width: 300px; margin: 0; color: #b4b5ac; font-size: 12px; line-height: 1.8; }
-.contact-link { display: inline-flex; align-items: center; gap: 32px; padding: 16px 18px; background: var(--acid); color: var(--ink); font-size: 12px; font-weight: 800; }
+.contact-links { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 10px; }
+.contact-link { display: inline-flex; align-items: center; justify-content: space-between; gap: 32px; padding: 16px 18px; background: var(--acid); color: var(--ink); font-size: 12px; font-weight: 800; }
 .contact-link span { font-size: 18px; }
+.contact-link-secondary { background: transparent; color: var(--paper); border: 1px solid rgba(245,243,237,.45); }
 .site-footer { display: grid; grid-template-columns: 1fr 1fr auto auto; gap: 22px; align-items: center; min-height: 95px; }
 .site-footer > span { color: var(--muted); font: 8px var(--mono); }
 .back-top { font: 8px var(--mono); }
@@ -183,6 +185,7 @@ a:focus-visible, button:focus-visible { outline: 2px solid var(--red); outline-o
   .contact-section h2 { margin: 64px 0 42px; font-size: clamp(52px, 13vw, 78px); }
   .contact-bottom { flex-direction: column; align-items: flex-start; gap: 22px; }
   .contact-bottom p { font-size: 11px; }
+  .contact-links { width: 100%; flex-direction: column; }
   .contact-link { width: 100%; justify-content: space-between; }
   .site-footer { gap: 19px 12px; }
   .site-footer > span, .back-top { font-size: 7px; }
