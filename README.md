@@ -26,7 +26,7 @@
 
 ## About
 
-I'm an independent developer focused on building software, exploring AI, and understanding how useful products are put together.
+I'm Destiny Growrich, an independent developer focused on building software, exploring AI, and understanding how useful products are put together.
 
 I work across backend systems, APIs, interfaces, and automation. I learn by building, testing, breaking things, and improving them.
 
