@@ -75,13 +75,43 @@ I enjoy working across the stack, from backend logic and APIs to interfaces and 
 
 ## Selected projects
 
-| Project | Description |
-|:--|:--|
-| [M.A.R.S](https://github.com/Allhaildahking/M.A.R.S) | A modular personal AI system exploring reasoning, memory, research, permissioned tools, and task planning. |
-| [Trade Oracle](https://github.com/Allhaildahking/Trade-Oracle) | A Forex market-intelligence engine for structured, auditable trade analysis. It does not execute trades. |
-| [Market Radar](https://github.com/Allhaildahking/Market-Radar-) | A speed-first market-news collector that classifies headlines and sends Telegram alerts. |
-| [LoreLab](https://github.com/Allhaildahking/lorelab) | An AI-assisted research and production workflow for history storytelling. |
-| [BabelLive](https://github.com/Allhaildahking/BabelLive) | An early-stage project exploring real-time AI speech translation for live broadcasts. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Allhaildahking/M.A.R.S">M.A.R.S</a></h3>
+      <p>A modular AI assistant exploring reasoning, memory, research, task planning, and permissioned tools.</p>
+      <sub>AI SYSTEMS · PYTHON · FASTAPI</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Allhaildahking/Trade-Oracle">Trade Oracle</a></h3>
+      <p>A Forex market-intelligence engine built for structured, auditable analysis. It doesn't execute trades.</p>
+      <sub>MARKET ANALYSIS · PYTHON</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Allhaildahking/Market-Radar-">Market Radar</a></h3>
+      <p>A fast market-news pipeline that classifies headlines and delivers Telegram alerts.</p>
+      <sub>NEWS INTELLIGENCE · AUTOMATION</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Allhaildahking/lorelab">LoreLab</a></h3>
+      <p>An AI-assisted research and production workflow for history-focused storytelling.</p>
+      <sub>AI · RESEARCH · STORYTELLING</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Allhaildahking/BabelLive">BabelLive</a></h3>
+      <p>An early-stage project exploring real-time AI speech translation for live broadcasts.</p>
+      <sub>AI · SPEECH · TRANSLATION</sub>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>More experiments are in progress.</strong></p>
+      <p>Building, testing, and refining ideas in public.</p>
+    </td>
+  </tr>
+</table>
 
 ## Currently building
 
