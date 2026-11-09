@@ -37,12 +37,12 @@ I work across backend systems, APIs, interfaces, and automation. I learn by buil
 ## GitHub overview
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Allhaildahking&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9da7b3&icon_color=58a6ff&rank_icon=github" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allhaildahking&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9da7b3" alt="Most used languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Allhaildahking&show_icons=true&hide_border=true&bg_color=090909&title_color=c6a36a&text_color=b8b8b8&icon_color=c6a36a&ring_color=c6a36a&include_all_commits=true" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allhaildahking&layout=compact&hide_border=true&bg_color=090909&title_color=c6a36a&text_color=b8b8b8&langs_count=6" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Allhaildahking&bg_color=0d1117&color=9da7b3&line=58a6ff&point=e6edf3&area=true&hide_border=true" alt="Contribution activity graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Allhaildahking&bg_color=090909&color=b8b8b8&line=c6a36a&point=ffffff&area=true&area_color=c6a36a&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph" />
 </div>
 
 ## Focus areas
