@@ -45,8 +45,7 @@ I work across backend systems, APIs, interfaces, and automation. I learn by buil
 </div>
 
 <div align="center">
-  <img src="./profile/contribution-calendar.svg" width="49%" alt="Isometric GitHub contribution calendar" />
-  <img src="./profile/recent-activity.svg" width="49%" alt="Recent GitHub activity" />
+  <img src="./profile/contribution-calendar.svg" width="100%" alt="Isometric GitHub contribution calendar" />
 </div>
 
 ## Focus areas
