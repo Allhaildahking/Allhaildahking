@@ -54,20 +54,3 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           output_action: commit
-
-      - name: Generate contribution streak
-        uses: DenverCoder1/github-readme-streak-stats@v1
-        with:
-          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&background=090909&stroke=c6a36a&ring=c6a36a&fire=c6a36a&currStreakLabel=c6a36a
-          path: profile/streak.svg
-
-      - name: Commit contribution streak
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile/streak.svg
-          if ! git diff --cached --quiet; then
-            git commit -m "Update contribution streak"
-            git pull --rebase origin main
-            git push origin HEAD:main
-          fi
