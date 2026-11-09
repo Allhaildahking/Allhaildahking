@@ -9,6 +9,10 @@ on:
       - ".github/workflows/profile-stats.yml"
       - "README.md"
 
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -28,6 +32,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: ${{ github.repository_owner }}
           filename: metrics.svg
           template: classic
@@ -36,23 +41,25 @@ jobs:
           plugin_languages_limit: 6
           plugin_achievements: yes
           plugin_achievements_display: compact
-          output_action: none
+          output_action: commit
 
       - name: Generate contribution calendar
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: ${{ github.repository_owner }}
           filename: profile/contribution-calendar.svg
           template: classic
           base: ""
           plugin_isocalendar: yes
-          output_action: none
+          output_action: commit
 
       - name: Generate recent activity
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: ${{ github.repository_owner }}
           filename: profile/recent-activity.svg
           template: classic
@@ -60,7 +67,7 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
-          output_action: none
+          output_action: commit
 
       - name: Generate contribution streak
         uses: DenverCoder1/github-readme-streak-stats@v1
@@ -68,9 +75,13 @@ jobs:
           options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&background=090909&stroke=c6a36a&ring=c6a36a&fire=c6a36a&currStreakLabel=c6a36a
           path: profile/streak.svg
 
-      - name: Commit all generated images together
+      - name: Commit contribution streak
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add metrics.svg profile/streak.svg profile/contribution-calendar.svg profile/recent-activity.svg
-          git diff --cached --quiet || (git commit -m "Update profile overview images" && git push)
+          git add profile/streak.svg
+          git diff --cached --quiet || (
+            git pull --rebase origin main
+            git commit -m "Update contribution streak"
+            git push
+          )
