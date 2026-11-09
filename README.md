@@ -12,6 +12,10 @@
     <a href="https://github.com/Allhaildahking">GitHub</a>
     &nbsp;·&nbsp;
     <a href="https://instagram.com/allhaildahking.py">Instagram</a>
+    &nbsp;·&nbsp;
+    <a href="https://x.com/allhaildahking">X</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:destinygrowrich@gmail.com">Email</a>
   </p>
 </div>
 
