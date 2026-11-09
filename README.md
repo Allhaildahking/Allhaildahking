@@ -21,11 +21,11 @@
 
 I'm an independent developer focused on building software, exploring AI, and understanding how useful products are put together.
 
-I enjoy working across the stack, from backend logic and APIs to interfaces and automation. Most importantly, I like making things that solve a real problem.
+I work across backend systems, APIs, interfaces, and automation. I learn by building, testing, breaking things, and improving them.
 
-- Building AI-powered applications and autonomous-system foundations
-- Exploring backend engineering, APIs, and agent workflows
-- Learning by shipping, testing, debugging, and improving real projects
+- Building AI-powered applications and agent-system foundations
+- Exploring backend engineering, APIs, and practical automation
+- Turning rough ideas into working prototypes
 
 ## GitHub overview
 
@@ -38,12 +38,12 @@ I enjoy working across the stack, from backend logic and APIs to interfaces and 
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Allhaildahking&bg_color=0d1117&color=9da7b3&line=58a6ff&point=e6edf3&area=true&hide_border=true" alt="Contribution activity graph" />
 </div>
 
-## What I do
+## Focus areas
 
-- **AI & intelligent systems** — experimenting with memory, reasoning, research, and controlled tool use.
-- **Backend development** — building APIs, application logic, and service integrations.
-- **Product development** — taking ideas from rough concepts to usable prototypes.
-- **Automation** — connecting tools and simplifying repetitive workflows.
+- **AI systems** — memory, reasoning, research, planning, and controlled tool use.
+- **Backend engineering** — APIs, application logic, and service integrations.
+- **Product building** — taking ideas from concept to usable prototypes.
+- **Automation** — connecting tools and reducing repetitive work.
 
 ## Tech stack
 
@@ -73,7 +73,7 @@ I enjoy working across the stack, from backend logic and APIs to interfaces and 
 ![Vercel](https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=FCC624)
 
-## Selected projects
+## Selected work
 
 <table>
   <tr>
@@ -84,18 +84,18 @@ I enjoy working across the stack, from backend logic and APIs to interfaces and 
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Allhaildahking/Trade-Oracle">Trade Oracle</a></h3>
-      <p>A Forex market-intelligence engine built for structured, auditable analysis. It doesn't execute trades.</p>
+      <p>A Forex market-intelligence engine for structured, auditable analysis. No broker execution.</p>
       <sub>MARKET ANALYSIS · PYTHON</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Allhaildahking/Market-Radar-">Market Radar</a></h3>
-      <p>A fast market-news pipeline that classifies headlines and delivers Telegram alerts.</p>
+      <p>A market-news pipeline that tracks sources, filters duplicate stories, classifies headlines, and sends Telegram alerts.</p>
       <sub>NEWS INTELLIGENCE · AUTOMATION</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Allhaildahking/lorelab">LoreLab</a></h3>
+      <h3><a href="https://github.com/Allhaildahking/LoreLab">LoreLab</a></h3>
       <p>An AI-assisted research and production workflow for history-focused storytelling.</p>
       <sub>AI · RESEARCH · STORYTELLING</sub>
     </td>
@@ -107,8 +107,9 @@ I enjoy working across the stack, from backend logic and APIs to interfaces and 
       <sub>AI · SPEECH · TRANSLATION</sub>
     </td>
     <td width="50%" valign="top">
-      <p><strong>More experiments are in progress.</strong></p>
-      <p>Building, testing, and refining ideas in public.</p>
+      <h3><a href="https://github.com/Allhaildahking/portfolio">Portfolio</a></h3>
+      <p>My personal portfolio and a home for selected work, experiments, and ways to connect.</p>
+      <sub>WEB DEVELOPMENT · DESIGN</sub>
     </td>
   </tr>
 </table>
@@ -116,12 +117,12 @@ I enjoy working across the stack, from backend logic and APIs to interfaces and 
 ## Currently building
 
 **M.A.R.S.**  
-Improving the foundations of a modular AI assistant: reliable APIs, memory, research, task planning, and explicit tool permissions.
+Strengthening the foundations of a modular AI assistant: reliable APIs, memory, research, task planning, and explicit tool permissions.
 
 **Market Radar**  
-Developing a lightweight market-news pipeline with source tracking, deduplication, and Telegram delivery.
+Improving a lightweight market-news pipeline with source tracking, deduplication, classification, and Telegram delivery.
 
-## What I'm exploring
+## Exploring next
 
 - Agent architecture and dependable tool-calling systems
 - Memory design, retrieval, and context management
