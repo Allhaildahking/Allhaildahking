@@ -7,6 +7,7 @@
 <div align="center">
   <h1>ALLHAILDAHKING</h1>
   <p><strong>Independent developer · AI systems · Software builder</strong></p>
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=14&pause=1500&color=C6A36A&center=true&vCenter=true&width=520&lines=BUILDING+AI+SYSTEMS;TURNING+IDEAS+INTO+TOOLS;LEARNING+BY+BUILDING" alt="Building AI systems · Turning ideas into tools · Learning by building" />
   <p>Turning ideas into useful tools, one system at a time.</p>
   <p>
     <a href="https://github.com/Allhaildahking">GitHub</a>
@@ -16,6 +17,8 @@
     <a href="https://x.com/allhaildahking">X</a>
     &nbsp;·&nbsp;
     <a href="mailto:destinygrowrich@gmail.com">Email</a>
+    &nbsp;·&nbsp;
+    <a href="https://allhaildahking.github.io/portfolio/">Portfolio</a>
   </p>
 </div>
 
