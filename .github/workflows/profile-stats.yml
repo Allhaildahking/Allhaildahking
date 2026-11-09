@@ -55,20 +55,6 @@ jobs:
           plugin_isocalendar: yes
           output_action: commit
 
-      - name: Generate recent activity
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: ${{ github.repository_owner }}
-          filename: profile/recent-activity.svg
-          template: classic
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          output_action: commit
-
       - name: Generate contribution streak
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
@@ -80,8 +66,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
-          git diff --cached --quiet || (
-            git pull --rebase origin main
+          if ! git diff --cached --quiet; then
             git commit -m "Update contribution streak"
-            git push
-          )
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
