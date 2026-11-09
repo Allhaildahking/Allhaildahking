@@ -37,16 +37,9 @@ I work across backend systems, APIs, interfaces, and automation. I learn by buil
 ## GitHub overview
 
 <div align="center">
-  <img src="./metrics.svg" width="100%" alt="GitHub profile statistics, languages and achievements" />
-</div>
-
-<div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Allhaildahking&theme=dark&hide_border=true&background=090909&stroke=c6a36a&ring=c6a36a&fire=c6a36a&currStreakLabel=c6a36a" width="100%" alt="GitHub contribution streak" /></a>
 </div>
 
-<div align="center">
-  <img src="./profile/contribution-calendar.svg" width="100%" alt="Isometric GitHub contribution calendar" />
-</div>
 
 ## Focus areas
 
