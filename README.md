@@ -37,12 +37,16 @@ I work across backend systems, APIs, interfaces, and automation. I learn by buil
 ## GitHub overview
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Allhaildahking&show_icons=true&hide_border=true&bg_color=090909&title_color=c6a36a&text_color=b8b8b8&icon_color=c6a36a&ring_color=c6a36a&include_all_commits=true" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allhaildahking&layout=compact&hide_border=true&bg_color=090909&title_color=c6a36a&text_color=b8b8b8&langs_count=6" alt="Most used languages" />
+  <img src="./metrics.svg" width="100%" alt="GitHub profile statistics, languages and achievements" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Allhaildahking&bg_color=090909&color=b8b8b8&line=c6a36a&point=ffffff&area=true&area_color=c6a36a&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph" />
+  <img src="./profile/streak.svg" width="100%" alt="GitHub contribution streak: current and longest streak" />
+</div>
+
+<div align="center">
+  <img src="./profile/contribution-calendar.svg" width="49%" alt="Isometric GitHub contribution calendar" />
+  <img src="./profile/recent-activity.svg" width="49%" alt="Recent GitHub activity" />
 </div>
 
 ## Focus areas
