@@ -1,7 +1,11 @@
 <!-- ALLHAILDAHKING | GitHub profile README -->
 
 <div align="center">
-  <h1>Hi, I'm ALLHAILDAHKING</h1>
+  <img src="./allhaildahking-banner.jpg" width="100%" alt="ALLHAILDAHKING — dark developer banner" />
+</div>
+
+<div align="center">
+  <h1>ALLHAILDAHKING</h1>
   <p><strong>Independent developer · AI systems · Software builder</strong></p>
   <p>Turning ideas into useful tools, one system at a time.</p>
   <p>
