@@ -1,7 +1,7 @@
 <!-- ALLHAILDAHKING | GitHub profile README -->
 
 <div align="center">
-  <img src="./allhaildahking-banner.jpg" width="100%" height="180" style="object-fit: cover; object-position: center;" alt="ALLHAILDAHKING — dark developer banner" />
+  <img src="./allhaildahking-banner.jpg" width="100%" height="240" alt="ALLHAILDAHKING — dark developer banner" />
 </div>
 
 <div align="center">
