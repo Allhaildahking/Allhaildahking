@@ -12,8 +12,7 @@
   <p>
     <a href="https://github.com/Allhaildahking"><img src="https://cdn.simpleicons.org/github/ffffff" width="22" height="22" alt="GitHub" /></a>
     &nbsp;&nbsp;
-    <a href="https://instagram.com/allhaildahking.py"><img src="https://cdn.simpleicons.org/instagram/C6A36A" width="22" height="22" alt="Instagram" /></a>
-    &nbsp;&nbsp;
+&nbsp;&nbsp;
     <a href="https://x.com/allhaildahking"><img src="https://cdn.simpleicons.org/x/ffffff" width="22" height="22" alt="X" /></a>
     &nbsp;&nbsp;
     <a href="mailto:destinygrowrich@gmail.com"><img src="https://cdn.simpleicons.org/gmail/C6A36A" width="22" height="22" alt="Email" /></a>
